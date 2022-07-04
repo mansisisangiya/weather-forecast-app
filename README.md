@@ -1,4 +1,4 @@
-## weather-forecast-app
+## weather-forecast-react-app
 
 
 ![image](https://user-images.githubusercontent.com/37304410/177007681-09a6a5f8-61ee-496c-a9f2-2ac9d2547ce4.png)
